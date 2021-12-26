@@ -13,6 +13,10 @@ To make the flutter even simpler.
 - [tray_manager](https://github.com/leanflutter/tray_manager)                   - This plugin allows Flutter desktop apps to defines system tray.
 - [window_manager](https://github.com/leanflutter/window_manager)               - This plugin allows Flutter desktop apps to resizing and repositioning the window.
 
+## Tools 
+
+- [flutter_distributor](https://github.com/leanflutter/flutter_distributor) - A complete tool for packaging and publishing your Flutter applications.
+
 ## Discussion
 
 > Welcome to join the discussion group to share your suggestions and ideas with me.
