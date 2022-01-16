@@ -1,0 +1,42 @@
+name: awesome-flutter-desktop
+description: A curated list of awesome things related to Flutter desktop.
+categories:
+  - id: packages4desktop
+    name: Packages for desktop
+  - id: tools
+    name: Tools
+tags:
+  - id: window
+    name: Window
+  - id: hotkey
+    name: HotKey
+entities:
+  # PACKAGES4DESKTOP
+  - pub_id: hotkey_manager
+    github_id: leanflutter/hotkey_manager
+    category: packages4desktop
+  - pub_id: launch_at_startup
+    github_id: leanflutter/launch_at_startup
+    category: packages4desktop
+  - pub_id: local_notifier
+    github_id: leanflutter/local_notifier
+    category: packages4desktop
+  - pub_id: screen_capturer
+    github_id: leanflutter/screen_capturer
+    category: packages4desktop
+  - pub_id: screen_retriever
+    github_id: leanflutter/screen_retriever
+    category: packages4desktop
+  - pub_id: screen_text_extractor
+    github_id: leanflutter/screen_text_extractor
+    category: packages4desktop
+  - pub_id: tray_manager
+    github_id: leanflutter/tray_manager
+    category: packages4desktop
+  - pub_id: window_manager
+    github_id: leanflutter/window_manager
+    category: packages4desktop
+  # TOOLS
+  - name: flutter_distributor
+    github_id: leanflutter/flutter_distributor
+    category: tools
