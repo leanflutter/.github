@@ -39,6 +39,9 @@ entities:
   - pub_id: window_manager
     github_id: leanflutter/window_manager
     category: packages4desktop
+  - pub_id: protocol_handler
+    github_id: leanflutter/protocol_handler
+    category: packages4desktop
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
