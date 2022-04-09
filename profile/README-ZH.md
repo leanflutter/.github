@@ -22,6 +22,7 @@
 
 ## 工具
 - [flutter_distributor](https://github.com/leanflutter/flutter_distributor) - 一个完整的工具，用于打包和发布您的 Flutter 应用。
+- [makeanyicon](https://github.com/leanflutter/makeanyicon) - 一个可配置的图标生成器。
 
 ## 支持
 

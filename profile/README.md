@@ -24,6 +24,7 @@ English | [简体中文](/profile/README-ZH.md)
 
 ## Tools
 - [flutter_distributor](https://github.com/leanflutter/flutter_distributor) - A complete tool for packaging and publishing your Flutter apps. 
+- [makeanyicon](https://github.com/leanflutter/makeanyicon) - A configurable icon maker. 
 
 <!-- AWESOME_LIST_MAKER -->
 

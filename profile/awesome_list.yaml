@@ -46,3 +46,6 @@ entities:
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
     category: tools
+  - name: makeanyicon
+    github_id: leanflutter/makeanyicon
+    category: tools
