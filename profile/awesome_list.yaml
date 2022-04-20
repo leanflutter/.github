@@ -42,6 +42,9 @@ entities:
   - pub_id: protocol_handler
     github_id: leanflutter/protocol_handler
     category: packages4desktop
+  - pub_id: clipboard_watcher
+    github_id: leanflutter/clipboard_watcher
+    category: packages4desktop
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
