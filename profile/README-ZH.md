@@ -14,7 +14,7 @@
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - 这个插件允许 Flutter 桌面 应用定义系统/应用范围内的热键（即快捷键）。
 - [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - 这个插件允许 Flutter 桌面 应用在启动/登录时自动启动。
 - [local_notifier](https://github.com/leanflutter/local_notifier) - 这个插件允许 Flutter 桌面 应用显示本地通知。
-- [protocol_handler](https://github.com/leanflutter/protocol_handler) - 这个插件允许 Flutter 桌面 应用注册及处理自定义协议（即深度链接）。
+- [protocol_handler](https://github.com/leanflutter/protocol_handler) - 这个插件允许 Flutter 应用注册及处理自定义协议（即深度链接）。
 - [screen_capturer](https://github.com/leanflutter/screen_capturer) - 这个插件允许 Flutter 桌面 应用程序进行屏幕截图。
 - [screen_retriever](https://github.com/leanflutter/screen_retriever) - 这个插件允许 Flutter 桌面 应用检索关于屏幕大小，显示，光标位置等信息。
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - 这个插件允许 Flutter 桌面 应用从屏幕上提取文本。
