@@ -11,6 +11,7 @@
 ## Packages for desktop
 - [auto_updater](https://github.com/leanflutter/auto_updater) - 这个插件允许 Flutter 桌面 应用自动更新自己 (基于 sparkle 和 winsparkle)。
 - [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - 这个插件允许 Flutter 桌面应用程序观察剪贴板的变化。
+- [contextual_menu](https://github.com/leanflutter/contextual_menu) - 这个插件允许 Flutter 桌面应用创建原生上下文菜单。
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - 这个插件允许 Flutter 桌面 应用定义系统/应用范围内的热键（即快捷键）。
 - [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - 这个插件允许 Flutter 桌面 应用在启动/登录时自动启动。
 - [local_notifier](https://github.com/leanflutter/local_notifier) - 这个插件允许 Flutter 桌面 应用显示本地通知。

@@ -45,6 +45,9 @@ entities:
   - pub_id: clipboard_watcher
     github_id: leanflutter/clipboard_watcher
     category: packages4desktop
+  - pub_id: contextual_menu
+    github_id: leanflutter/contextual_menu
+    category: packages4desktop
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
