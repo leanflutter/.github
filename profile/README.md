@@ -35,7 +35,7 @@ English | [简体中文](/profile/README-ZH.md)
 If my work is helpful to you, or just want to support me to continue to develop, you can do the following:
 
 - Star the organization's code repository or share it with your friends
-- [One-time donation](https://distributor.leanflutter.org/sponsor#one-time-donation)
+- [One-time donation](https://leanflutter.org/sponsor)
 
 ## Discussion
 

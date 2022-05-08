@@ -31,7 +31,7 @@
 如果我的工作对你有帮助，或只是想要支持我继续开发，你可以通过如下方式：
 
 - 星标本组织的代码仓库或分享给你的朋友们
-- [一次性捐赠](https://distributor.leanflutter.org/v/zh/sponsor#yi-ci-xing-juan-zeng)
+- [一次性捐赠](https://leanflutter.org/zh/sponsor)
 
 ## 讨论
 
