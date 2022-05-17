@@ -1,5 +1,9 @@
 # 欢迎来到 [LeanFlutter](https://leanflutter.org) 组织
 
+![][visits-count-image] 
+
+[visits-count-image]: https://img.shields.io/badge/dynamic/json?label=Visits%20Count&query=value&url=https://api.countapi.xyz/hit/leanflutter.github-profile/visits
+
 让 Flutter 更加简单。
 
 ---

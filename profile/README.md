@@ -1,5 +1,9 @@
 # Welcome to the [LeanFlutter](https://leanflutter.org) organization
 
+![][visits-count-image] 
+
+[visits-count-image]: https://img.shields.io/badge/dynamic/json?label=Visits%20Count&query=value&url=https://api.countapi.xyz/hit/leanflutter.github-profile/visits
+
 To make the flutter even simpler.
 
 ---
