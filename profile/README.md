@@ -19,6 +19,7 @@ English | [简体中文](/profile/README-ZH.md)
 - [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - This plugin allows Flutter desktop apps to watch clipboard changes. 
 - [contextual_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus. 
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - This plugin allows Flutter desktop apps to defines system/inapp wide hotkey (i.e. shortcut). 
+- [keypress_simulator](https://github.com/leanflutter/keypress_simulator) - This plugin allows Flutter desktop apps to simulate key presses. 
 - [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - This plugin allows Flutter desktop apps to Auto launch on startup / login. 
 - [local_notifier](https://github.com/leanflutter/local_notifier) - This plugin allows Flutter desktop apps to displaying local notifications. 
 - [protocol_handler](https://github.com/leanflutter/protocol_handler) - This plugin allows Flutter apps to register and handle custom protocols (i.e. deep linking). 

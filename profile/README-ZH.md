@@ -17,6 +17,7 @@
 - [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - 这个插件允许 Flutter 桌面应用程序观察剪贴板的变化。
 - [contextual_menu](https://github.com/leanflutter/contextual_menu) - 这个插件允许 Flutter 桌面应用创建原生上下文菜单。
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - 这个插件允许 Flutter 桌面 应用定义系统/应用范围内的热键（即快捷键）。
+- [keypress_simulator](https://github.com/leanflutter/keypress_simulator) - 这个插件允许 Flutter 桌面应用模拟按键操作。
 - [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - 这个插件允许 Flutter 桌面 应用在启动/登录时自动启动。
 - [local_notifier](https://github.com/leanflutter/local_notifier) - 这个插件允许 Flutter 桌面 应用显示本地通知。
 - [protocol_handler](https://github.com/leanflutter/protocol_handler) - 这个插件允许 Flutter 应用注册及处理自定义协议（即深度链接）。
