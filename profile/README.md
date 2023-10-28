@@ -42,7 +42,6 @@ If my work is helpful to you, or just want to support me to continue to develop,
 
 > Welcome to join the discussion group to share your suggestions and ideas with me.
 
-- WeChat Group - Please add my personal WeChat `lijy91` and note `LeanFlutter`
 - [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
 - [Discord](https://discord.com/invite/zPa6EZ2jqb)
 

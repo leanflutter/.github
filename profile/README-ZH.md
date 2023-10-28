@@ -38,7 +38,6 @@
 
 > 欢迎加入讨论组，与我分享你的建议和想法。
 
-- 微信群 - 请加我个人微信 `lijy91` 并备注 `LeanFlutter`
 - [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
 - [Discord](https://discord.com/invite/zPa6EZ2jqb)
 
