@@ -20,6 +20,7 @@
 - [screen_capturer](https://github.com/leanflutter/screen_capturer) - 这个插件允许 Flutter 桌面 应用程序进行屏幕截图。
 - [screen_retriever](https://github.com/leanflutter/screen_retriever) - 这个插件允许 Flutter 桌面 应用检索关于屏幕大小，显示，光标位置等信息。
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - 这个插件允许 Flutter 桌面 应用从屏幕上提取文本。
+- [shortcut_menu_extender](https://github.com/leanflutter/shortcut_menu_extender) - 这个插件允许 Flutter 应用扩展全局快捷菜单。
 - [tray_manager](https://github.com/leanflutter/tray_manager) - 这个插件允许 Flutter 桌面 应用定义系统托盘。
 - [window_manager](https://github.com/leanflutter/window_manager) - 这个插件允许 Flutter 桌面 应用调整窗口的大小和位置。
 

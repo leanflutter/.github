@@ -51,6 +51,9 @@ entities:
   - pub_id: keypress_simulator
     github_id: leanflutter/keypress_simulator
     category: packages4desktop
+  - pub_id: shortcut_menu_extender
+    github_id: leanflutter/shortcut_menu_extender
+    category: packages4desktop
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
