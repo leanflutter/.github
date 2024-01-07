@@ -63,7 +63,8 @@ English | [简体中文](/profile/README-ZH.md)
 If my work is helpful to you, or just want to support me to continue to develop, you can do the following:
 
 - Star the organization's code repository or share it with your friends
-- [One-time donation](https://leanflutter.org/sponsor)
+- [Liberapay](https://liberapay.com/lijy91) - Recurring sponsorship
+- [WeChatPay or Alipay](https://leanflutter.org/sponsor) - One-time sponsorship
 
 ## Discussions
 

@@ -56,7 +56,8 @@
 如果我的工作对你有帮助，或只是想要支持我继续开发，你可以通过如下方式：
 
 - 星标本组织的代码仓库或分享给你的朋友们
-- [一次性捐赠](https://leanflutter.org/zh/sponsor)
+- [Liberapay](https://liberapay.com/lijy91) - 每周或每月赞助
+- [WeChatPay or Alipay](https://leanflutter.org/sponsor) - 一次性赞助
 
 ## 讨论
 
