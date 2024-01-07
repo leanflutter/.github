@@ -1,0 +1,7 @@
+name: sponsors for leanflutter
+description: ""
+entities:
+  - github_id: cmlanche
+  - github_id: ottomatic-io
+    homepage: https://ottomatic.io
+  - github_id: NeroSong

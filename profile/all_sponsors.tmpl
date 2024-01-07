@@ -1,0 +1,16 @@
+<table>
+  <tbody>
+    <tr>{% for entity in entities %}
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/{{ entity.github_id }}"><img src="{{ entity.image_url }}" width="100px;" alt="{{ entity.name }}"/><br /><sub><b>{{ entity.name }}</b></sub></a><br />
+      </td>{% endfor %}
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <a href="https://github.com/leanflutter/.github/issues/new">Add your sponsorships</a>
+      </td>
+    </tr>
+  </tfoot>
+</table>

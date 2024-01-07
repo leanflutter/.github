@@ -10,7 +10,7 @@ English | [简体中文](/profile/README-ZH.md)
 
 <!-- AWESOME_LIST_MAKER -->
 
-## Packages for desktop
+## Packages
 - [auto_updater](https://github.com/leanflutter/auto_updater) - This plugin allows Flutter desktop apps to automatically update themselves (based on sparkle and winsparkle). 
 - [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - This plugin allows Flutter apps to watch clipboard changes. 
 - [contextual_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus. 
@@ -32,19 +32,45 @@ English | [简体中文](/profile/README-ZH.md)
 
 <!-- AWESOME_LIST_MAKER -->
 
-## Sponsor
+## Sponsors
+
+<!-- ALL_SPONSORS_MAKER -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/cmlanche"><img src="https://avatars.githubusercontent.com/u/5886757?v=4" width="100px;" alt="cmlanche"/><br /><sub><b>cmlanche</b></sub></a><br />
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/ottomatic-io"><img src="https://avatars.githubusercontent.com/u/44842836?v=4" width="100px;" alt="ottomatic-io"/><br /><sub><b>ottomatic-io</b></sub></a><br />
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/NeroSong"><img src="https://avatars.githubusercontent.com/u/30629143?v=4" width="100px;" alt="NeroSong"/><br /><sub><b>NeroSong</b></sub></a><br />
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <a href="https://github.com/leanflutter/.github/issues/new">Add your sponsorships</a>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+<!-- ALL_SPONSORS_MAKER -->
 
 If my work is helpful to you, or just want to support me to continue to develop, you can do the following:
 
 - Star the organization's code repository or share it with your friends
 - [One-time donation](https://leanflutter.org/sponsor)
 
-## Discussion
+## Discussions
 
 > Welcome to join the discussion group to share your suggestions and ideas with me.
 
-- [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
 - [Discord](https://discord.com/invite/zPa6EZ2jqb)
+- [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
 
 ## Thank You
 

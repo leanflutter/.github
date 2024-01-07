@@ -8,7 +8,7 @@
 
 ---
 
-## Packages for desktop
+## 包
 - [auto_updater](https://github.com/leanflutter/auto_updater) - 这个插件允许 Flutter 桌面 应用自动更新自己 (基于 sparkle 和 winsparkle)。
 - [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - 这个插件允许 Flutter 桌面应用程序观察剪贴板的变化。
 - [contextual_menu](https://github.com/leanflutter/contextual_menu) - 这个插件允许 Flutter 桌面应用创建原生上下文菜单。
@@ -28,7 +28,30 @@
 - [flutter_distributor](https://github.com/leanflutter/flutter_distributor) - 一个完整的工具，用于打包和发布您的 Flutter 应用。
 - [makeanyicon](https://github.com/leanflutter/makeanyicon) - 一个可配置的图标生成器。
 
-## 支持
+## 赞助商
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/cmlanche"><img src="https://avatars.githubusercontent.com/u/5886757?v=4" width="100px;" alt="cmlanche"/><br /><sub><b>cmlanche</b></sub></a><br />
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/ottomatic-io"><img src="https://avatars.githubusercontent.com/u/44842836?v=4" width="100px;" alt="ottomatic-io"/><br /><sub><b>ottomatic-io</b></sub></a><br />
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/NeroSong"><img src="https://avatars.githubusercontent.com/u/30629143?v=4" width="100px;" alt="NeroSong"/><br /><sub><b>NeroSong</b></sub></a><br />
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <a href="https://github.com/leanflutter/.github/issues/new">Add your sponsorships</a>
+      </td>
+    </tr>
+  </tfoot>
+</table>
 
 如果我的工作对你有帮助，或只是想要支持我继续开发，你可以通过如下方式：
 
@@ -39,9 +62,8 @@
 
 > 欢迎加入讨论组，与我分享你的建议和想法。
 
-- [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
 - [Discord](https://discord.com/invite/zPa6EZ2jqb)
-
+- [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
 ## 谢谢你
 
 🎉 🎉 🎉
