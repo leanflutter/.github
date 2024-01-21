@@ -24,6 +24,7 @@ English | [简体中文](/profile/README-ZH.md)
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - This plugin allows Flutter desktop apps to extract text from screen. 
 - [shortcut_menu_extender](https://github.com/leanflutter/shortcut_menu_extender) - This plugin allows Flutter apps to Extending global shortcut menus. 
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
+- [vclibs](https://github.com/leanflutter/vclibs) - Let your flutter windows apps include vclibs. 
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
 
 ## Tools
