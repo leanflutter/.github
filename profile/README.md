@@ -1,4 +1,4 @@
-# Welcome to the [LeanFlutter](https://leanflutter.org) organization
+# Welcome to the [LeanFlutter](https://leanflutter.dev) organization
 
 To make the flutter even simpler.
 
@@ -71,7 +71,7 @@ If my work is helpful to you, or just want to support me to continue to develop,
 
 - Star the organization's code repository or share it with your friends
 - [Liberapay](https://liberapay.com/lijy91) - Recurring sponsorship
-- [WeChatPay or Alipay](https://leanflutter.org/sponsor) - One-time sponsorship
+- [WeChatPay or Alipay](https://leanflutter.dev/sponsor) - One-time sponsorship
 
 ## Discussions
 

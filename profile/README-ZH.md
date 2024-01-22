@@ -1,4 +1,4 @@
-# 欢迎来到 [LeanFlutter](https://leanflutter.org) 组织
+# 欢迎来到 [LeanFlutter](https://leanflutter.dev) 组织
 
 让 Flutter 更加简单。
 
@@ -64,7 +64,7 @@
 
 - 星标本组织的代码仓库或分享给你的朋友们
 - [Liberapay](https://liberapay.com/lijy91) - 每周或每月赞助
-- [WeChatPay or Alipay](https://leanflutter.org/sponsor) - 一次性赞助
+- [WeChatPay or Alipay](https://leanflutter.dev/zh-hans/sponsor) - 一次性赞助
 
 ## 讨论
 
