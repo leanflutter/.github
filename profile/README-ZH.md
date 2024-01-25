@@ -49,6 +49,9 @@
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/reqable"><img src="https://avatars.githubusercontent.com/u/119648815?v=4" width="100px;" alt="reqable"/><br /><sub><b>reqable</b></sub></a><br />
       </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/Gentleflow"><img src="https://avatars.githubusercontent.com/u/69471562?v=4" width="100px;" alt="Gentleflow"/><br /><sub><b>Gentleflow</b></sub></a><br />
+      </td>
     </tr>
   </tbody>
   <tfoot>
