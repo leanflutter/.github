@@ -26,8 +26,7 @@
 - [window_manager](https://github.com/leanflutter/window_manager) - 这个插件允许 Flutter 桌面 应用调整窗口的大小和位置。
 
 ## 工具
-- [flutter_distributor](https://github.com/leanflutter/flutter_distributor) - 一个完整的工具，用于打包和发布您的 Flutter 应用。
-- [makeanyicon](https://github.com/leanflutter/makeanyicon) - 一个可配置的图标生成器。
+- [fastforge](https://github.com/fastforgedev/fastforge) - 一个完整的工具，用于打包和发布您的 Flutter 应用 (原名: flutter_distributor). 
 
 ## 赞助商
 
