@@ -57,10 +57,3 @@ entities:
   - pub_id: vclibs
     github_id: leanflutter/vclibs
     category: packages
-  # TOOLS
-  - name: flutter_distributor
-    github_id: leanflutter/flutter_distributor
-    category: tools
-  - name: makeanyicon
-    github_id: leanflutter/makeanyicon
-    category: tools

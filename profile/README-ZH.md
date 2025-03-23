@@ -1,3 +1,5 @@
+> **🚀 快速发布您的应用**: 试试 [Fastforge](https://fastforge.dev)(原名: flutter_distributor) - 构建、打包和分发您的 Flutter 应用最简单的方式。
+
 # 欢迎来到 [LeanFlutter](https://leanflutter.dev) 组织
 
 让 Flutter 更加简单。

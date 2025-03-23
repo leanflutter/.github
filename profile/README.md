@@ -1,3 +1,5 @@
+> **🚀 Ship Your App Faster**: Try [Fastforge](https://fastforge.dev)(formerly known as flutter_distributor) - The simplest way to build, package and distribute your Flutter apps.
+
 # Welcome to the [LeanFlutter](https://leanflutter.dev) organization
 
 To make the flutter even simpler.
@@ -26,10 +28,6 @@ English | [简体中文](/profile/README-ZH.md)
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
 - [vclibs](https://github.com/leanflutter/vclibs) - Let your flutter windows apps include vclibs. 
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
-
-## Tools
-- [fastforge](https://github.com/fastforgedev/fastforge) - A complete tool for packaging and publishing your Flutter apps (formerly known as flutter_distributor). 
-
 
 <!-- AWESOME_LIST_MAKER -->
 
