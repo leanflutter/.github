@@ -1,0 +1,9 @@
+{% for category in categories %}
+## {{ category.name }}
+
+| Package | Description |
+|---------|-------------|
+{% for entity in entities %}{% if entity.category == category.id %}| [{{ entity.name }}](https://github.com/{{ entity.github_id }}) | {{ entity.description }} |
+{% endif %}{% endfor %}
+
+{% endfor %}

@@ -1,9 +1,11 @@
 <table>
   <tbody>
-    <tr>{% for entity in entities %}
+    <tr>
+{% for entity in entities %}
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/{{ entity.github_id }}"><img src="{{ entity.image_url }}" width="100px;" alt="{{ entity.name }}"/><br /><sub><b>{{ entity.name }}</b></sub></a><br />
-      </td>{% endfor %}
+      </td>
+{% endfor %}
     </tr>
   </tbody>
   <tfoot>
