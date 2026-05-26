@@ -69,6 +69,7 @@ def _ensure_defaults(entity: dict) -> dict:
         "homepage": "",
         "description": "",
         "livepreview_url": "",
+        "pub_id": "",
     }
     return {**defaults, **entity}
 

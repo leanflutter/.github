@@ -13,26 +13,26 @@
 <!-- PROJECTS_MAKER -->
 ## 📦 Packages
 
-| Package | Description |
-|---------|-------------|
-| [auto_updater](https://github.com/leanflutter/auto_updater) | This plugin allows Flutter desktop apps to automatically update themselves (based on sparkle and winsparkle). |
-| [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) | This plugin allows Flutter apps to watch clipboard changes. |
-| [hotkey_manager](https://github.com/leanflutter/hotkey_manager) | This plugin allows Flutter desktop apps to defines system/inapp wide hotkey (i.e. shortcut). |
-| [launch_at_startup](https://github.com/leanflutter/launch_at_startup) | This plugin allows Flutter desktop apps to Auto launch on startup / login. |
-| [local_notifier](https://github.com/leanflutter/local_notifier) | This plugin allows Flutter desktop apps to displaying local notifications. |
-| [protocol_handler](https://github.com/leanflutter/protocol_handler) | This plugin allows Flutter apps to register and handle custom protocols (i.e. deep linking). |
-| [screen_capturer](https://github.com/leanflutter/screen_capturer) | This plugin allows Flutter desktop apps to capture screenshots. |
-| [screen_retriever](https://github.com/leanflutter/screen_retriever) | This plugin allows Flutter desktop apps to Retrieve information about screen size, displays, cursor position, etc. |
-| [shortcut_menu_extender](https://github.com/leanflutter/shortcut_menu_extender) | This plugin allows Flutter apps to Extending global shortcut menus. |
-| [tray_manager](https://github.com/leanflutter/tray_manager) | This plugin allows Flutter desktop apps to defines system tray. |
-| [vclibs](https://github.com/leanflutter/vclibs) | Let your flutter windows apps include vclibs. |
-| [window_manager](https://github.com/leanflutter/window_manager) | This plugin allows Flutter desktop apps to resizing and repositioning the window. |
+| Package | Description | Downloads |
+|---------|-------------|-----------|
+| [auto_updater](https://github.com/leanflutter/auto_updater) | This plugin allows Flutter desktop apps to automatically update themselves (based on sparkle and winsparkle). | [![pub downloads](https://img.shields.io/pub/dm/auto_updater.svg)](https://pub.dev/packages/auto_updater) |
+| [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) | This plugin allows Flutter apps to watch clipboard changes. | [![pub downloads](https://img.shields.io/pub/dm/clipboard_watcher.svg)](https://pub.dev/packages/clipboard_watcher) |
+| [hotkey_manager](https://github.com/leanflutter/hotkey_manager) | This plugin allows Flutter desktop apps to defines system/inapp wide hotkey (i.e. shortcut). | [![pub downloads](https://img.shields.io/pub/dm/hotkey_manager.svg)](https://pub.dev/packages/hotkey_manager) |
+| [launch_at_startup](https://github.com/leanflutter/launch_at_startup) | This plugin allows Flutter desktop apps to Auto launch on startup / login. | [![pub downloads](https://img.shields.io/pub/dm/launch_at_startup.svg)](https://pub.dev/packages/launch_at_startup) |
+| [local_notifier](https://github.com/leanflutter/local_notifier) | This plugin allows Flutter desktop apps to displaying local notifications. | [![pub downloads](https://img.shields.io/pub/dm/local_notifier.svg)](https://pub.dev/packages/local_notifier) |
+| [protocol_handler](https://github.com/leanflutter/protocol_handler) | This plugin allows Flutter apps to register and handle custom protocols (i.e. deep linking). | [![pub downloads](https://img.shields.io/pub/dm/protocol_handler.svg)](https://pub.dev/packages/protocol_handler) |
+| [screen_capturer](https://github.com/leanflutter/screen_capturer) | This plugin allows Flutter desktop apps to capture screenshots. | [![pub downloads](https://img.shields.io/pub/dm/screen_capturer.svg)](https://pub.dev/packages/screen_capturer) |
+| [screen_retriever](https://github.com/leanflutter/screen_retriever) | This plugin allows Flutter desktop apps to Retrieve information about screen size, displays, cursor position, etc. | [![pub downloads](https://img.shields.io/pub/dm/screen_retriever.svg)](https://pub.dev/packages/screen_retriever) |
+| [shortcut_menu_extender](https://github.com/leanflutter/shortcut_menu_extender) | This plugin allows Flutter apps to Extending global shortcut menus. | [![pub downloads](https://img.shields.io/pub/dm/shortcut_menu_extender.svg)](https://pub.dev/packages/shortcut_menu_extender) |
+| [tray_manager](https://github.com/leanflutter/tray_manager) | This plugin allows Flutter desktop apps to defines system tray. | [![pub downloads](https://img.shields.io/pub/dm/tray_manager.svg)](https://pub.dev/packages/tray_manager) |
+| [vclibs](https://github.com/leanflutter/vclibs) | Let your flutter windows apps include vclibs. | [![pub downloads](https://img.shields.io/pub/dm/vclibs.svg)](https://pub.dev/packages/vclibs) |
+| [window_manager](https://github.com/leanflutter/window_manager) | This plugin allows Flutter desktop apps to resizing and repositioning the window. | [![pub downloads](https://img.shields.io/pub/dm/window_manager.svg)](https://pub.dev/packages/window_manager) |
 
 ## 🛠 Tools
 
-| Package | Description |
-|---------|-------------|
-| [fastforge](https://github.com/fastforgedev/fastforge) | The ultimate all-in-one Flutter application packaging and distribution tool, providing a seamless solution for all your distribution needs. |
+| Package | Description | Downloads |
+|---------|-------------|-----------|
+| [fastforge](https://github.com/fastforgedev/fastforge) | A powerful and efficient tool for packaging and publishing your applications with ease. | [![pub downloads](https://img.shields.io/pub/dm/fastforge.svg)](https://pub.dev/packages/fastforge) |
 
 
 <!-- PROJECTS_MAKER -->

@@ -42,5 +42,6 @@ entities:
   - pub_id: window_manager
     github_id: leanflutter/window_manager
     category: packages
-  - github_id: fastforgedev/fastforge
-    category:  tools
+  - pub_id: fastforge
+    github_id: fastforgedev/fastforge
+    category: tools

@@ -1,9 +1,9 @@
 {% for category in categories %}
 ## {{ category.name }}
 
-| Package | Description |
-|---------|-------------|
-{% for entity in entities %}{% if entity.category == category.id %}| [{{ entity.name }}](https://github.com/{{ entity.github_id }}) | {{ entity.description }} |
+| Package | Description | Downloads |
+|---------|-------------|-----------|
+{% for entity in entities %}{% if entity.category == category.id %}| [{{ entity.name }}](https://github.com/{{ entity.github_id }}) | {{ entity.description }} | {% if entity.pub_id %}[![pub downloads](https://img.shields.io/pub/dm/{{ entity.pub_id }}.svg)](https://pub.dev/packages/{{ entity.pub_id }}){% endif %} |
 {% endif %}{% endfor %}
 
 {% endfor %}
