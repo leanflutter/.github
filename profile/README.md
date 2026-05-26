@@ -1,3 +1,5 @@
+> **🚀 Ship Your App Faster**: Try [Fastforge](https://fastforge.dev)(formerly known as flutter_distributor) - The simplest way to build, package and distribute your Flutter apps.
+
 <p align="center">
   <a href="https://leanflutter.dev"><strong>leanflutter.dev</strong></a>
 </p>
@@ -6,16 +8,10 @@
 
 > Making Flutter development simpler.
 
-> **🚀 Ship Your App Faster**: Try [Fastforge](https://fastforge.dev)(formerly known as flutter_distributor) - The simplest way to build, package and distribute your Flutter apps.
-
----
-
-English | [简体中文](/profile/README-ZH.md)
-
 ---
 
 <!-- PROJECTS_MAKER -->
-## Packages
+## 📦 Packages
 
 | Package | Description |
 |---------|-------------|
@@ -32,7 +28,7 @@ English | [简体中文](/profile/README-ZH.md)
 | [vclibs](https://github.com/leanflutter/vclibs) | Let your flutter windows apps include vclibs. |
 | [window_manager](https://github.com/leanflutter/window_manager) | This plugin allows Flutter desktop apps to resizing and repositioning the window. |
 
-## Tools
+## 🛠 Tools
 
 | Package | Description |
 |---------|-------------|
@@ -57,7 +53,7 @@ English | [简体中文](/profile/README-ZH.md)
         <a href="https://github.com/ottomatic-io"><img src="https://avatars.githubusercontent.com/u/44842836?v=4" width="100px;" alt="OTTOMATIC"/><br /><sub><b>OTTOMATIC</b></sub></a><br />
       </td>
       <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/NeroSong"><img src="" width="100px;" alt="NeroSong"/><br /><sub><b>NeroSong</b></sub></a><br />
+        <a href="https://github.com/NeroSong"><img src="https://avatars.githubusercontent.com/u/30629143?v=4" width="100px;" alt="Nero Song"/><br /><sub><b>Nero Song</b></sub></a><br />
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/reqable"><img src="https://avatars.githubusercontent.com/u/119648815?v=4" width="100px;" alt="Reqable"/><br /><sub><b>Reqable</b></sub></a><br />

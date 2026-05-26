@@ -25,7 +25,6 @@ PROFILE_DIR = Path(__file__).parent / "profile"
 
 README_FILES = [
     PROFILE_DIR / "README.md",
-    PROFILE_DIR / "README-ZH.md",
 ]
 
 MARKER_PREFIX = "<!--"
